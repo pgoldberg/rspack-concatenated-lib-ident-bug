@@ -1,0 +1,7 @@
+{
+  "name": "rspack-concatenated-lib-ident-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "pnpm --filter app run build"
+  }
+}
